@@ -10,7 +10,6 @@ namespace Data_types_and_data_structures
     {
         static void Main(string[] args)
         {
-            Console.ReadKey();
         }
     }
 }
